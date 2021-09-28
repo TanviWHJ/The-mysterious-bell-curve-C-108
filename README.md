@@ -1,1 +1,2 @@
-# The-mysterious-bell-curve-C-108
+# Normal-Distribution
+solution for c108
